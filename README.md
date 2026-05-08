@@ -55,7 +55,7 @@ trading_bot/
 
 ### 2. Get Testnet API Credentials
 
-1. Go to [testnet.binancefuture.com](https://testnet.binancefuture.com)
+1. Go to [testnet.binancefuture.com](https://testnet.binancefuture.com)  and log in/create your account
 2. From the top navigation bar:
    - Click **Trade**
    - Select **Demo Trading**

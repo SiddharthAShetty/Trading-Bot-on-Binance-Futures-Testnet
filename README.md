@@ -56,8 +56,17 @@ trading_bot/
 ### 2. Get Testnet API Credentials
 
 1. Go to [testnet.binancefuture.com](https://testnet.binancefuture.com)
-2. Log in → **API Key** tab → Generate a key pair
-3. Copy your **API Key** and **Secret Key**
+2. From the top navigation bar:
+   - Click **Trade**
+   - Select **Demo Trading**
+3. Once the Demo Trading dashboard opens:
+   - Click your **Profile icon** in the top-right corner
+   - Select **Demo Trading API**
+4. Click **Create API**
+5. Generate and copy your:
+   - **API Key**
+   - **Secret Key**
+6. Save these keys securely. You will use them in your project configuration.
 
 ### 3. Clone & Install
 

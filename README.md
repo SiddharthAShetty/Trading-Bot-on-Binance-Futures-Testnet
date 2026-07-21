@@ -75,7 +75,7 @@ git clone https://github.com/SiddharthAShetty/trading-bot.git
 cd trading-bot
 
 python -m venv venv
-source venv/bin/activate       # Windows: venv\Scripts\activate
+source venv/bin/activate       # Windows: ./venv/Scripts/activate
 
 pip install -r requirements.txt
 ```
@@ -83,7 +83,7 @@ pip install -r requirements.txt
 ### 4. Configure Credentials
 
 ```bash
-cp .env.example .env
+copy .env.example .env
 ```
 
 Edit `.env`:
